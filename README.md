@@ -1,5 +1,5 @@
 # cowzvirus.io
-The CowzVirus Now 3.0, the final cowz virus made by Me! A linux prank virus for all to troll!
+The CowzVirus Now 3.0, the final cowz virus made by Me! A linux prank virus for all to troll with!
 --------------
 Just download, unzip the files, read the Instructions.txt file and enjoy!
 --------------
