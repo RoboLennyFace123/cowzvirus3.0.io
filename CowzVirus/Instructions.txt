@@ -1,0 +1,15 @@
+Welcome to a world of cowz!
+------------------------
+Now I bring you CowzVirus 3.0, the final update! 
+------------------------
+1) Drag the CowzVirus folder onto your desktop
+2) Type: echo y | sudo apt-get install festival in terminal
+3) Type: echo y | sudo apt-get install xcowsay in terminal to install xcowsay
+4) Type: chmod +x /home/user/Desktop/CowzVirus/cowzvirus.sh in terminal
+5) Drag the app to your desktop,(It should say Cowz on it and looks like a spring with a pressure plate on top) run it, and enjoy!
+------------------------
+This virus does not harm the computer in any way, it merely makes cows pop up on the screen.
+
+By: Me! "Rise of the Cows. . ."
+ 
+
